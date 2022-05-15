@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>InfoPelis</title>
+	<link rel="icon" href="img/iconos/LogoInfoPelisPestana.png">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<header class="bg-color">
+		<nav class="container">
+			<div class="logo">
+				<img id="imgLogo" src="img/iconos/LogoInfoPelis.png" alt="logo" width="80px" height="80px">
+				<h1 id="tituloLogo">InfoPelis.com</h1>
+			</div>
+			<div class="buscador">	
+				<input type="text" id="inputBuscador" placeholder="Buscar Película">
+				<img src="img/iconos/iconoBusqueda.svg" alt="inconoBusqueda" width="30px" height="30px" id="inconoBusqueda">
+				<a href="filtrar.html" id="filtrar">Filtrar</a>
+			</div>
+		</nav>
+	</header>
+
+		<main>	
+			<div class="container">
+				<!-- Parte superior de la página que muestra una imagen de la película, su título y una pequeña descripción -->
+				<div class="encabezado mt-2">
+					<img src="img/losIncreibles.jpg" alt="encanto" width="200px" height="200px" class="miniatura">
+					
+					<div>
+						<h2>Los Increíbles</h2>
+						<p class="c1 mt-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam placeat quibusdam ratione officia odit itaque provident fugit tempora enim! Quisquam doloribus ad non, consequuntur repellat quas doloremque repellendus alias facere!</p>
+						<p class="c2 mt-2"><strong>Categoría:</strong> </p>
+						<p class="c3 mt-1"><strong>Fecha:</strong> </p> 
+					</div>
+
+				</div>
+				<!-- Se comportarán como botones para desplegar información -->
+				<div class="especificaciones mt-2">
+					<p data-set="trailer">Trailer</p>
+					<p data-set="sinopsis">Sinopsis</p>
+					<p data-set="fichaTecnica">Ficha Tecnica</p>
+					<p data-set="fichaArtistica">Ficha Artistica</p>
+					<p data-set="premios">Premios</p>
+					<p data-set="prensa">Prensa</p>
+					<p data-set="criticas">Críticas</p>
+				</div>
+				<!-- de este lado va la opción escogida de los botones de arriba -->
+				<div class="cajaEspecificaciones">
+					<!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis sit similique culpa est tempora, earum atque totam quod quidem obcaecati odio saepe ut rerum eius architecto sint quia impedit eum.</p>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis sit similique culpa est tempora, earum atque totam quod quidem obcaecati odio saepe ut rerum eius architecto sint quia impedit eum.</p>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis sit similique culpa est tempora, earum atque totam quod quidem obcaecati odio saepe ut rerum eius architecto sint quia impedit eum.</p> -->
+				</div>
+				<h2 class="mt-1">Imágenes</h2>
+				<div class="fotografias mt-2">
+					<!-- <img src="img/Encanto.jpg" alt="" class="miniatura">
+					<img src="img/pelicula-1.jpg" alt="" class="miniatura">
+					<img src="img/Encanto.jpg" alt="" class="miniatura">
+					<img src="img/losIncreibles.jpg" alt="" class="miniatura"> -->
+				</div>
+			</div>
+		</main>
+
+
+		<footer class="bg-color mt-2">
+			<div class="container footer-content">
+				<h2 class="mt-1 mb-1">InfoPelis.com</h2>
+				<div class="redesSociales mt-1 mb-1">
+					<p class="mt-1 mb-1">Contacto: +34 666 335 933</p>
+					<img src="img/iconos/facebookIcon.svg" alt="Facebook">
+					<img src="img/iconos/instagramIcon.svg" alt="Instagram">
+					<img src="img/iconos/twitterIcon.svg" alt="Twitter">
+				</div>
+			</div>
+		</footer>
+		
+<script type="text/javascript" src="js/main.js"></script>
+<script type="text/javascript" src="js/pelicula.js"></script>
+</body>
+</html>

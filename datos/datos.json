@@ -1,0 +1,437 @@
+[
+	{
+		"id":1,
+		"titulo": "Encanto",
+		"valoracion": 5,
+		"anio": 2015,
+		"sinopsis": "Sinopsis 1 ,Lorem, ipsum dolor sit, amet consectetur adipisicing elit. Vel quod aliquam tenetur ipsa. Incidunt debitis cupiditate ab quas quidem, perspiciatis sed repellendus totam qui dolor molestiae cum quasi dicta ullam.",
+		"premios": ["Premio oscar","Premio Gaviota"],
+		"criticas": ["Problema en doblaje","mal uso de las escenas"],
+		"prensa": ["Ganadora de Premio oscar","Pelicula gana primera posicion"],
+		"genero":["ROMANCE","ANIMACION","MUSICAL"],
+		"duracion":"2h 28m",
+		"imagen":"img/Encanto.jpg",
+		"fotos" : ["img/Encanto.jpg","img/pelicula-1.jpg","img/Encanto.jpg","img/losIncreibles.jpg"],
+		"trailer": [],
+		"fichaTecnica": 
+					{
+						"direccion": ["Carlos Sánchez Arévalo Dario J.Ferrer"],
+						"guion": ["Dario J. Ferrer"],
+						"direccionDeFotografia": ["Dario J. Ferrer"],
+						"montaje": ["Tomás Muñoz"],
+						"ayteDireccion": ["Jorge Hurtado"],
+						"productor": ["Dario J. Ferrer"],
+						"musica": ["Librado Pastor", "Enrique Hernández"],
+						"sonido": ["Saul Saborido", "Laura Diez"],
+						"operadorDeCamara": ["Fernando Matas", "Bartek Nalazek", "Dario J. Ferrer"],
+						"direccionDeArte": ["Marcin Busko", "Manu Ferrer"],
+						"vestuario": ["Olga Vallejo", "Rozio Faba"],
+						"maquillaje": ["Salut Ferrús"],
+						"peluqueria": ["Sandra Campos"],
+						"casting": ["Candela Montesinos"]
+					},
+		"fichaArtistica": 
+					[{
+						"nombrePersonaje":"Pepe",
+						"actor": "Alejo Sauras"
+					},
+
+					{
+						"nombrePersonaje":"Encarna",
+						"actor": "Mariam Hernández"
+					},
+
+					{
+						"nombrePersonaje":"Anselmo",
+						"actor": "José Carabias"
+					},
+
+					{
+						"nombrePersonaje":"Padre Estepa",
+						"actor": "Javivi"
+					},
+
+					{
+						"nombrePersonaje":"Alfonsito",
+						"actor": "José Monto"
+					},
+
+					{
+						"nombrePersonaje":"Jesucristo",
+						"actor": "Albert Plá"
+					},
+
+					{
+						"nombrePersonaje":"Joaquina",
+						"actor": "Lola Molto"
+					},
+
+					{
+						"nombrePersonaje":"Sr. Bahamonte",
+						"actor": "Joan Gadea"
+					}]
+
+	},
+    {
+		"id":2,
+		"titulo": "Los increibles",
+		"valoracion": 4,
+		"anio": 2016,
+		"sinopsis": "Sinopsis 2, Lorem, ipsum dolor sit, amet consectetur adipisicing elit. Vel quod aliquam tenetur ipsa. Incidunt debitis cupiditate ab quas quidem, perspiciatis sed repellendus totam qui dolor molestiae cum quasi dicta ullam.",
+		"premios": ["Premio oscar","Premio Gaviota"],
+		"criticas": ["Problema en doblaje","mal uso de las escenas"],
+		"prensa": ["Ganadora de Premio oscar","Pelicula gana primera posicion"],
+		"genero":["DRAMA","ANIMACION"],
+		"duracion":"2h 28m",
+		"imagen":"img/losIncreibles.jpg",
+		"fotos" : ["img/Encanto.jpg","img/pelicula-1.jpg","img/Encanto.jpg","img/losIncreibles.jpg"],
+		"trailer": [],
+		"fichaTecnica": 
+					{
+						"direccion": ["Carlos Sánchez Arévalo Dario J.Ferrer"],
+						"guion": ["Dario J. Ferrer"],
+						"direccionDeFotografia": ["Dario J. Ferrer"],
+						"montaje": ["Tomás Muñoz"],
+						"ayteDireccion": ["Jorge Hurtado"],
+						"productor": ["Dario J. Ferrer"],
+						"musica": ["Librado Pastor", "Enrique Hernández"],
+						"sonido": ["Saul Saborido", "Laura Diez"],
+						"operadorDeCamara": ["Fernando Matas", "Bartek Nalazek", "Dario J. Ferrer"],
+						"direccionDeArte": ["Marcin Busko", "Manu Ferrer"],
+						"vestuario": ["Olga Vallejo", "Rozio Faba"],
+						"maquillaje": ["Salut Ferrús"],
+						"peluqueria": ["Sandra Campos"],
+						"casting": ["Candela Montesinos"]
+					},
+		"fichaArtistica": 
+					[{
+						"nombrePersonaje":"Pepe",
+						"actor": "Alejo Sauras"
+					},
+
+					{
+						"nombrePersonaje":"Encarna",
+						"actor": "Mariam Hernández"
+					},
+
+					{
+						"nombrePersonaje":"Anselmo",
+						"actor": "José Carabias"
+					},
+
+					{
+						"nombrePersonaje":"Padre Estepa",
+						"actor": "Javivi"
+					},
+
+					{
+						"nombrePersonaje":"Alfonsito",
+						"actor": "José Monto"
+					},
+
+					{
+						"nombrePersonaje":"Jesucristo",
+						"actor": "Albert Plá"
+					},
+
+					{
+						"nombrePersonaje":"Joaquina",
+						"actor": "Lola Molto"
+					},
+
+					{
+						"nombrePersonaje":"Sr. Bahamonte",
+						"actor": "Joan Gadea"
+					}]
+
+	},
+    {
+		"id":3,
+		"titulo": "pelicula 3",
+		"valoracion": 5,
+		"anio": 2018,
+		"sinopsis": "Sinopsis 3 Lorem, ipsum dolor sit, amet consectetur adipisicing elit. Vel quod aliquam tenetur ipsa. Incidunt debitis cupiditate ab quas quidem, perspiciatis sed repellendus totam qui dolor molestiae cum quasi dicta ullam.",
+		"premios": ["Premio oscar","Premio Gaviota"],
+		"criticas": ["Problema en doblaje","mal uso de las escenas"],
+		"prensa": ["Ganadora de Premio oscar","Pelicula gana primera posicion"],
+		"genero":["GUERRA"],
+		"duracion":"2h 28m",
+		"imagen":"img/pelicula-1.jpg",
+		"fotos" : [],
+		"trailer": [],
+		"fichaTecnica": 
+					{
+						"direccion": ["Carlos Sánchez Arévalo Dario J.Ferrer"],
+						"guion": ["Dario J. Ferrer"],
+						"direccionDeFotografia": ["Dario J. Ferrer"],
+						"montaje": ["Tomás Muñoz"],
+						"ayteDireccion": ["Jorge Hurtado"],
+						"productor": ["Dario J. Ferrer"],
+						"musica": ["Librado Pastor", "Enrique Hernández"],
+						"sonido": ["Saul Saborido", "Laura Diez"],
+						"operadorDeCamara": ["Fernando Matas", "Bartek Nalazek", "Dario J. Ferrer"],
+						"direccionDeArte": ["Marcin Busko", "Manu Ferrer"],
+						"vestuario": ["Olga Vallejo", "Rozio Faba"],
+						"maquillaje": ["Salut Ferrús"],
+						"peluqueria": ["Sandra Campos"],
+						"casting": ["Candela Montesinos"]
+					},
+		"fichaArtistica": 
+					[{
+						"nombrePersonaje":"Pepe",
+						"actor": "Alejo Sauras"
+					},
+
+					{
+						"nombrePersonaje":"Encarna",
+						"actor": "Mariam Hernández"
+					},
+
+					{
+						"nombrePersonaje":"Anselmo",
+						"actor": "José Carabias"
+					},
+
+					{
+						"nombrePersonaje":"Padre Estepa",
+						"actor": "Javivi"
+					},
+
+					{
+						"nombrePersonaje":"Alfonsito",
+						"actor": "José Monto"
+					},
+
+					{
+						"nombrePersonaje":"Jesucristo",
+						"actor": "Albert Plá"
+					},
+
+					{
+						"nombrePersonaje":"Joaquina",
+						"actor": "Lola Molto"
+					},
+
+					{
+						"nombrePersonaje":"Sr. Bahamonte",
+						"actor": "Joan Gadea"
+					}]
+
+	},
+    {
+		"id":4,
+		"titulo": "pelicula 4",
+		"valoracion": 2,
+		"anio": 2019,
+		"sinopsis": "Sinopsis 4  Lorem, ipsum dolor sit, amet consectetur adipisicing elit. Vel quod aliquam tenetur ipsa. Incidunt debitis cupiditate ab quas quidem, perspiciatis sed repellendus totam qui dolor molestiae cum quasi dicta ullam.",
+		"premios": ["Premio oscar","Premio Gaviota"],
+		"criticas": ["Problema en doblaje","mal uso de las escenas"],
+		"prensa": ["Ganadora de Premio oscar","Pelicula gana primera posicion"],
+		"genero":["MUSICAL"],
+		"duracion":"2h 28m",
+		"imagen":"img/pelicula-1.jpg",
+		"fotos" : ["img/Encanto.jpg","img/pelicula-1.jpg","img/Encanto.jpg","img/losIncreibles.jpg"],
+		"trailer": [],
+		"fichaTecnica": 
+					{
+						"direccion": ["Carlos Sánchez Arévalo Dario J.Ferrer"],
+						"guion": ["Dario J. Ferrer"],
+						"direccionDeFotografia": ["Dario J. Ferrer"],
+						"montaje": ["Tomás Muñoz"],
+						"ayteDireccion": ["Jorge Hurtado"],
+						"productor": ["Dario J. Ferrer"],
+						"musica": ["Librado Pastor", "Enrique Hernández"],
+						"sonido": ["Saul Saborido", "Laura Diez"],
+						"operadorDeCamara": ["Fernando Matas", "Bartek Nalazek", "Dario J. Ferrer"],
+						"direccionDeArte": ["Marcin Busko", "Manu Ferrer"],
+						"vestuario": ["Olga Vallejo", "Rozio Faba"],
+						"maquillaje": ["Salut Ferrús"],
+						"peluqueria": ["Sandra Campos"],
+						"casting": ["Candela Montesinos"]
+					},
+		"fichaArtistica": 
+					[{
+						"nombrePersonaje":"Pepe",
+						"actor": "Alejo Sauras"
+					},
+
+					{
+						"nombrePersonaje":"Encarna",
+						"actor": "Mariam Hernández"
+					},
+
+					{
+						"nombrePersonaje":"Anselmo",
+						"actor": "José Carabias"
+					},
+
+					{
+						"nombrePersonaje":"Padre Estepa",
+						"actor": "Javivi"
+					},
+
+					{
+						"nombrePersonaje":"Alfonsito",
+						"actor": "José Monto"
+					},
+
+					{
+						"nombrePersonaje":"Jesucristo",
+						"actor": "Albert Plá"
+					},
+
+					{
+						"nombrePersonaje":"Joaquina",
+						"actor": "Lola Molto"
+					},
+
+					{
+						"nombrePersonaje":"Sr. Bahamonte",
+						"actor": "Joan Gadea"
+					}]
+	},
+    {
+		"id":5,
+		"titulo": "pelicula 5",
+		"valoracion": 1,
+		"anio": 2020,
+		"sinopsis": "Sinopsis 5 Lorem, ipsum dolor sit, amet consectetur adipisicing elit. Vel quod aliquam tenetur ipsa. Incidunt debitis cupiditate ab quas quidem, perspiciatis sed repellendus totam qui dolor molestiae cum quasi dicta ullam.",
+		"premios": ["Premio oscar","Premio Gaviota"],
+		"criticas": ["Problema en doblaje","mal uso de las escenas"],
+		"prensa": ["Ganadora de Premio oscar","Pelicula gana primera posicion"],
+		"genero":["COMEDIA"],
+		"duracion":"2h 28m",
+		"imagen":"img/pelicula-1.jpg",
+		"fotos" : ["img/Encanto.jpg","img/pelicula-1.jpg","img/Encanto.jpg","img/losIncreibles.jpg"],
+		"trailer": [],
+		"fichaTecnica": 
+					{
+						"direccion": ["Carlos Sánchez Arévalo","Dario J.Ferrer"],
+						"guion": ["Dario J. Ferrer"],
+						"direccionDeFotografia": ["Dario J. Ferrer"],
+						"montaje": ["Tomás Muñoz"],
+						"ayteDireccion": ["Jorge Hurtado"],
+						"productor": ["Dario J. Ferrer"],
+						"musica": ["Librado Pastor", "Enrique Hernández"],
+						"sonido": ["Saul Saborido", "Laura Diez"],
+						"operadorDeCamara": ["Fernando Matas", "Bartek Nalazek", "Dario J. Ferrer"],
+						"direccionDeArte": ["Marcin Busko", "Manu Ferrer"],
+						"vestuario": ["Olga Vallejo", "Rozio Faba"],
+						"maquillaje": ["Salut Ferrús"],
+						"peluqueria": ["Sandra Campos"],
+						"casting": ["Candela Montesinos"]
+					},
+		"fichaArtistica": 
+					[{
+						"nombrePersonaje":"Pepe",
+						"actor": "Alejo Sauras"
+					},
+
+					{
+						"nombrePersonaje":"Encarna",
+						"actor": "Mariam Hernández"
+					},
+
+					{
+						"nombrePersonaje":"Anselmo",
+						"actor": "José Carabias"
+					},
+
+					{
+						"nombrePersonaje":"Padre Estepa",
+						"actor": "Javivi"
+					},
+
+					{
+						"nombrePersonaje":"Alfonsito",
+						"actor": "José Monto"
+					},
+
+					{
+						"nombrePersonaje":"Jesucristo",
+						"actor": "Albert Plá"
+					},
+
+					{
+						"nombrePersonaje":"Joaquina",
+						"actor": "Lola Molto"
+					},
+
+					{
+						"nombrePersonaje":"Sr. Bahamonte",
+						"actor": "Joan Gadea"
+					}]
+	},
+	{
+		"id":5,
+		"titulo": "pelicula 6",
+		"valoracion": 1,
+		"anio": 2020,
+		"sinopsis": "Sinopsis 5 Lorem, ipsum dolor sit, amet consectetur adipisicing elit. Vel quod aliquam tenetur ipsa. Incidunt debitis cupiditate ab quas quidem, perspiciatis sed repellendus totam qui dolor molestiae cum quasi dicta ullam.",
+		"premios": ["Premio oscar","Premio Gaviota"],
+		"criticas": ["Problema en doblaje","mal uso de las escenas"],
+		"prensa": ["Ganadora de Premio oscar","Pelicula gana primera posicion"],
+		"genero":["COMEDIA"],
+		"duracion":"2h 28m",
+		"imagen":"img/pelicula-1.jpg",
+		"fotos" : ["img/Encanto.jpg","img/pelicula-1.jpg","img/Encanto.jpg","img/losIncreibles.jpg"],
+		"trailer": [],
+		"fichaTecnica": 
+					{
+						"direccion": ["Carlos Sánchez Arévalo","Dario J.Ferrer"],
+						"guion": ["Dario J. Ferrer"],
+						"direccionDeFotografia": ["Dario J. Ferrer"],
+						"montaje": ["Tomás Muñoz"],
+						"ayteDireccion": ["Jorge Hurtado"],
+						"productor": ["Dario J. Ferrer"],
+						"musica": ["Librado Pastor", "Enrique Hernández"],
+						"sonido": ["Saul Saborido", "Laura Diez"],
+						"operadorDeCamara": ["Fernando Matas", "Bartek Nalazek", "Dario J. Ferrer"],
+						"direccionDeArte": ["Marcin Busko", "Manu Ferrer"],
+						"vestuario": ["Olga Vallejo", "Rozio Faba"],
+						"maquillaje": ["Salut Ferrús"],
+						"peluqueria": ["Sandra Campos"],
+						"casting": ["Candela Montesinos"]
+					},
+		"fichaArtistica": 
+					[{
+						"nombrePersonaje":"Pepe",
+						"actor": "Alejo Sauras"
+					},
+
+					{
+						"nombrePersonaje":"Encarna",
+						"actor": "Mariam Hernández"
+					},
+
+					{
+						"nombrePersonaje":"Anselmo",
+						"actor": "José Carabias"
+					},
+
+					{
+						"nombrePersonaje":"Padre Estepa",
+						"actor": "Javivi"
+					},
+
+					{
+						"nombrePersonaje":"Alfonsito",
+						"actor": "José Monto"
+					},
+
+					{
+						"nombrePersonaje":"Jesucristo",
+						"actor": "Albert Plá"
+					},
+
+					{
+						"nombrePersonaje":"Joaquina",
+						"actor": "Lola Molto"
+					},
+
+					{
+						"nombrePersonaje":"Sr. Bahamonte",
+						"actor": "Joan Gadea"
+					}]
+	}
+]
